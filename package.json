@@ -1,0 +1,27 @@
+{
+  "name": "v12muzikaltyapisi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "guncelle": "npm i"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.x",
+    "distube": "^2.8.7",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "^0.0.2",
+    "node-opus": "^0.3.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "müzik",
+    "v12",
+    "ihsanmidoriya.log"
+  ]
+}
